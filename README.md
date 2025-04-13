@@ -10,9 +10,11 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho como Suporte Técnico N1, atendendo clientes para diagnóstico, análise e resolução de incidentes técnicos relacionados aos softwares da empresa. Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens e frameworks para criar soluções completas.
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho como Suporte Técnico N1, atendendo clientes para diagnóstico, análise e resolução de incidentes técnicos relacionados aos softwares da empresa. 
 
 Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando e executando consultas otimizadas, analisando e manipulando dados, corrigindo registros incorretos e identificando inconsistências para garantir a integridade e performance das informações.
+
+Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens e frameworks para criar soluções completas.
 
 ---
 
