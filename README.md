@@ -63,14 +63,6 @@ Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens 
 
 ---
 
-## 📊 Meu Perfil Técnico
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
-
-
----
-
 ## 📚 Projetos em Destaque
 
 ### 🥋 Site da Academia
