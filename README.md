@@ -67,4 +67,4 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/alexandre-de-avila/)  
-- Email: [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
+- [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
