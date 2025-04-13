@@ -19,7 +19,7 @@ Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens 
 ---
 
 
-- ## 🧠 Meu Perfil Técnico
+## 🧠 Meu Perfil Técnico
 
 **Linguagens de Programação:**
 
