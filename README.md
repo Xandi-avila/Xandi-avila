@@ -16,6 +16,8 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 
 Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens e frameworks para criar soluções completas.
 
+![Repositórios](https://img.shields.io/badge/Repositórios-6-blue)
+
 ---
 
 
