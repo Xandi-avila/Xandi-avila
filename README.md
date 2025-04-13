@@ -76,7 +76,7 @@ Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com f
 - 🛠️ Área administrativa protegida, com painel de feedback dos alunos
 - 🔍 Sistema de pesquisa interna para facilitar o gerenciamento de dados
 
-⚙️ **Desafios enfrentados:**
+❗ **Desafios enfrentados:**
 - Gerenciar sessões de login seguras em PHP
 - Trabalhar com layout responsivo mesmo com HTML/CSS puros
 - Implementar operações no banco de dados usando comandos SQL seguros e otimizados
