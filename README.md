@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou buscando aprimorar minhas habilidades como desenvolvedor Full Stack e expandir minha experiência em projetos reais, com foco em **desenvolvimento de aplicações web com foco em usabilidade, integração com banco de dados e performance.**
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, busco consolidar minha atuação como desenvolvedor Full Stack, focando em aplicações web completas que envolvem front-end, back-end e integração com banco de dados, sempre priorizando a experiência do usuário e o desempenho.
 
 Trabalho como Suporte Técnico N1, atendendo clientes para diagnóstico, análise e resolução de incidentes técnicos relacionados aos softwares da empresa. Além disso, administro e dou suporte a bancos de dados (MySQL / SQL Server), criando e executando consultas otimizadas, analisando e manipulando dados, corrigindo registros incorretos e garantindo a integridade e performance das informações.
 
