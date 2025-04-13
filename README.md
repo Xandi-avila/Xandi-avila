@@ -17,68 +17,16 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 ---
 
 
-## 🛠️ Habilidades Técnicas
-
-**Linguagens:**  
-- C#, Python, JavaScript, PHP, Java
-
-**Desenvolvimento Web:**  
-- HTML, CSS, JavaScript  
-- PHP, Blazor (front-end e back-end)
-
-**Banco de Dados:**  
-- Modelagem e consultas SQL (SQL Server, MySQL)
-
-**Controle de Versão:**  
-- Git, GitHub
-
-**Ferramentas:**  
-- VS Code, PyCharm
-
-**Metodologias Ágeis:**  
-- Conhecimento em Scrum
-
-**UI/UX:**  
-- Draw.io e Figma
-
-**Redes:**  
-- Conhecimento geral em redes
-
----
-
-## 📊 Meu Perfil Técnico
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xandi-avila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt_BR&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xandi-avila&locale=pt_BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages"  />
-</div>
-
----
-
-## 📚 Projetos em Destaque
-
-- **[Site da Academia](https://github.com/Xandi-avila/Site-academia)**  
-  Sistema completo de gerenciamento para academia de lutas com funcionalidades de agendamento de aulas, cadastro e gerenciamento de professores, administração de loja (imagens e preços) e área administrativa com feedback dos alunos.
-
-*(Explore meus repositórios para ver mais projetos!)*
-
----
-
-## 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
-- **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
-- **Currículo:** [Download meu CV](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/main/Curriculo%20Alexandre%20avila%20pereira.pdf)
-
 - ## 🧠 Meu Perfil Técnico
 
 **Linguagens de Programação:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 
 **Desenvolvimento Web:**
 
@@ -110,7 +58,30 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=draw.io&logoColor=white)
 
-**Redes:**
 
-![Redes](https://img.shields.io/badge/Redes-0078D7?style=flat&logo=windows&logoColor=white)
+---
+
+## 📊 Meu Perfil Técnico
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xandi-avila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt_BR&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xandi-avila&locale=pt_BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages"  />
+</div>
+
+---
+
+## 📚 Projetos em Destaque
+
+- **[Site da Academia](https://github.com/Xandi-avila/Site-academia)**  
+  Sistema completo de gerenciamento para academia de lutas com funcionalidades de agendamento de aulas, cadastro e gerenciamento de professores, administração de loja (imagens e preços) e área administrativa com feedback dos alunos.
+
+*(Explore meus repositórios para ver mais projetos!)*
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
+- **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
+- **Currículo:** [Download meu CV](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/main/Curriculo%20Alexandre%20avila%20pereira.pdf)
 
