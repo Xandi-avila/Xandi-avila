@@ -76,9 +76,10 @@ Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com f
 
 ## 📫 Contato
 
+Estou sempre aberto a novas oportunidades de aprendizado e desafios. Sinta-se à vontade para entrar em contato!
+
 - **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
 - **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
 - **Currículo:** [Download meu CV](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/main/Curriculo%20Alexandre%20avila%20pereira.pdf)
 - **WhatsApp:** [+55 51 99772-1371](https://wa.me/5551997721371)
-
 
