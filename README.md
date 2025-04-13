@@ -2,6 +2,7 @@
 
 ## 🎓 Educação
 - **Centro Universitário Senac-RS:** Análise e Desenvolvimento de Sistemas (3º semestre)
+
 **💼 Suporte Técnico N1 (Rodosoft Tecnologia, São Leopoldo, RS)**  
 **💻 Desenvolvedor Full Stack**  
 
