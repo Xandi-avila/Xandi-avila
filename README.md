@@ -74,11 +74,18 @@ Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens 
 
 ## 📚 Projetos em Destaque
 
-- **[Site da Academia](https://github.com/Xandi-avila/Site-academia)**  
-  Sistema completo de gerenciamento para academia de lutas com funcionalidades de agendamento de aulas, cadastro e gerenciamento de professores, administração de loja (imagens e preços) e área administrativa com feedback dos alunos.
+### 🥋 Site da Academia
+
+Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com foco na eficiência e usabilidade.
+
+**🔧 Funcionalidades:**
+
+- 📅 Agendamento de aulas
+- 👨‍🏫 Cadastro e gerenciamento de professores
+- 🛍️ Administração de loja (imagens e preços)
+- 🛠️ Área administrativa com feedback dos alunos
 
 *(Explore meus repositórios para ver mais projetos!)*
-
 ---
 
 ## 📫 Contato
