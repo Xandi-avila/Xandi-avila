@@ -17,7 +17,7 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens e frameworks para criar soluções completas.
 
 ---
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ## 🧠 Meu Perfil Técnico
 
