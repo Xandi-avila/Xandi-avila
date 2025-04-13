@@ -47,30 +47,6 @@ Além do meu trabalho, sou um programador full stack em constante evolução e e
 
 ---
 
-## 🔖 Algumas Badges
-
-<div align="center">
-  <!-- Exemplo de badges para tecnologias populares (ajuste conforme necessário) -->
-  <img src="https://skillicons.dev/icons?i=c,python,js,php,java" height="30" alt="Linguagens"  />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge" height="30" alt="Blazor"  />
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/SQLServer-CC2927?logo=sql-server&logoColor=white&style=for-the-badge" height="30" alt="SQL Server"  />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="MySQL"  />
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" alt="VS Code"  />
-  <img src="https://img.shields.io/badge/Git-FF4F00?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git"  />
-</div>
-
----
-
 ## 📚 Projetos em Destaque
 
 - **[Site da Academia](https://github.com/Xandi-avila/Site-academia)**  
@@ -82,8 +58,4 @@ Além do meu trabalho, sou um programador full stack em constante evolução e e
 
 ## 📫 Entre em Contato
 
-Sinta-se à vontade para me conectar através do meu [LinkedIn](https://www.linkedin.com/in/alexandre-de-avila/) ou me enviar um email para **seuemail@example.com**. Estou sempre aberto a novas oportunidades e colaborações!
-
----
-
-_Este perfil é uma vitrine do meu desenvolvimento constante e paixão por tecnologia. Vamos conversar e criar algo incrível juntos!_
+Sinta-se à vontade para me conectar através do meu [LinkedIn](https://www.linkedin.com/in/alexandre-de-avila/) ou me enviar um email para **xandiipereiraa@outlook.com**. Estou sempre aberto a novas oportunidades e colaborações!
