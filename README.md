@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexandre Ávila! 👋
 
 **🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)**  
-**💼 Suporte Técnico N1 - Rodosoft Tecnlogia**  
+**💼 Suporte Técnico N1 (Rodosoft Tecnologia, São Leopoldo, RS)**  
 **💻 Desenvolvedor Full Stack**  
 
 **📍 Esteio, RS, Brasil**
@@ -64,6 +64,7 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Contato
 
-Sinta-se à vontade para me conectar através do meu [LinkedIn](https://www.linkedin.com/in/alexandre-de-avila/) ou me enviar um email para **xandiipereiraa@outlook.com**. Estou sempre aberto a novas oportunidades e colaborações!
+- [LinkedIn](https://www.linkedin.com/in/alexandre-de-avila/)  
+- Email: [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
