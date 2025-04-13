@@ -65,10 +65,9 @@ Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens 
 
 ## 📊 Meu Perfil Técnico
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xandi-avila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt_BR&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xandi-avila&locale=pt_BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages"  />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
+
 
 ---
 
