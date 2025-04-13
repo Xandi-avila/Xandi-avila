@@ -64,12 +64,17 @@ Trabalho como Suporte Técnico N1, atendendo clientes para diagnóstico, anális
 
 Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com foco na eficiência e usabilidade.
 
-**🔧 Funcionalidades:**
+🛠️ **Tecnologias utilizadas:**
+- **Front-end:** HTML5, CSS3, JavaScript
+- **Back-end:** PHP
+- **Banco de dados:** MySQL
 
-- 📅 Agendamento de aulas
-- 👨‍🏫 Cadastro e gerenciamento de professores
-- 🛍️ Administração de loja (imagens e preços)
-- 🛠️ Área administrativa com feedback dos alunos
+⚙️ **Principais funcionalidades:**
+- 📅 Agendamento de aulas com datas e horários
+- 👨‍🏫 Cadastro e gerenciamento de professores com campos personalizados
+- 🛍️ Administração de loja de produtos, com imagens, preços e categorias
+- 🛠️ Área administrativa protegida, com painel de feedback dos alunos
+- 🔍 Sistema de pesquisa interna para facilitar o gerenciamento de dados
 
 *(Explore meus repositórios para ver mais projetos!)*
 ---
