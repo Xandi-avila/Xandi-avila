@@ -1,7 +1,5 @@
 # Olá, eu sou Alexandre Avila! 👋
 
-<img align="right" height="150" src="https://i.imgflip.com/9kv8l6.jpg" />
-
 Sou Alexandre de Avila Pereira, tenho 27 anos e moro em Esteio, Rio Grande do Sul.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas** (3º semestre) e trabalho como **Suporte Técnico N1** – onde faço atendimento a clientes para diagnóstico, análise e resolução de incidentes relacionados aos softwares da empresa. Também atuo na administração e suporte a bancos de dados (MySQL / SQL Server), realizando consultas otimizadas, análise, manipulação e correção de dados para garantir a integridade das informações.
 
