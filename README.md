@@ -1,14 +1,7 @@
 # Olá, eu sou o Alexandre Ávila! 👋
 
-## 🎓 Educação
-- **Centro Universitário Senac-RS:** Análise e Desenvolvimento de Sistemas (3º semestre)
-
-## 💼 Experiência Profissional
-- **Rodosoft Tecnologia:** Suporte Técnico N1 (Data de início – Data de término)
-  - Responsável por...
-  - Conquistas:
-    - Implementação de...
-
+**🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)**  
+**💼 Suporte Técnico N1 (Rodosoft Tecnologia, São Leopoldo, RS)**  
 **💻 Desenvolvedor Full Stack**  
 
 **📍 Esteio, RS, Brasil**
