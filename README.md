@@ -6,6 +6,9 @@
 
 **📍 Esteio, RS, Brasil**
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
+
 ---
 
 ## 🚀 Sobre Mim
