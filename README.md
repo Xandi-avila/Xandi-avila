@@ -64,7 +64,7 @@ Além disso, atuo como Desenvolvedor Full Stack, explorando diversas linguagens 
 
 ## 📚 Projetos em Destaque
 
-### 🥋 Site da Academia
+### 🥋 [Site da Academia](https://github.com/Xandi-avila/Site-da-Academia)
 
 Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com foco na eficiência e usabilidade.
 
