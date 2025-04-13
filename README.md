@@ -65,7 +65,7 @@ Tenho buscado aprimorar meus conhecimentos em desenvolvimento Full Stack, criand
 Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com foco na eficiência e usabilidade.
 
 🛠️ **Tecnologias utilizadas:**
-- **Front-end:** HTML5, CSS3, JavaScript
+- **Front-end:** HTML5, CSS3, JavaScript, Bootstrap
 - **Back-end:** PHP
 - **Banco de dados:** MySQL
 
@@ -78,7 +78,7 @@ Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com f
 
 ❗ **Desafios enfrentados:**
 - Gerenciar sessões de login seguras em PHP
-- Trabalhar com layout responsivo mesmo com HTML/CSS puros
+- Customizar e adaptar o layout responsivo com Bootstrap
 - Implementar operações no banco de dados usando comandos SQL seguros e otimizados
 
 *(Explore meus repositórios para ver mais projetos!)*
