@@ -68,4 +68,4 @@ Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando
 
 - **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
 - **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
-- **Currículo:** [Download meu CV]([https://link-para-seu-curriculo.com/curriculo.pdf](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/main/Curriculo%20Alexandre%20avila%20pereira.pdf))
+- **Currículo:** [Download meu CV](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/main/Curriculo%20Alexandre%20avila%20pereira.pdf)
