@@ -1,4 +1,4 @@
-# Olá, eu sou o Alexandre Ávila! 👋
+# Olá, eu sou Alexandre Ávila! 👋
 
 **🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)**  
 **💼 Suporte Técnico N1 (Rodosoft Tecnologia, São Leopoldo, RS)**  
