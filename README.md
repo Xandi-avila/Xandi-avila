@@ -90,6 +90,6 @@ Estou sempre aberto a novas oportunidades de aprendizado e desafios. Sinta-se à
 
 - **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
 - **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
-- **Currículo:** [Download meu CV](https://github.com/Xandi-avila/Xandi-avila/blob/7a407ef5cf58bd0f8daa63cec484b7545409f48a/Curriculo%20Alexandre%20avila%20pereira.pdf)
+- **Currículo:** [Download meu CV](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/7a407ef5cf58bd0f8daa63cec484b7545409f48a/Curriculo%20Alexandre%20avila%20pereira.pdf)
 - **WhatsApp:** [+55 51 99772-1371](https://wa.me/5551997721371)
 
