@@ -1,6 +1,6 @@
 # Olá, eu sou Alexandre Ávila! 👋
 
-**🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)**  
+**🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre)**  
 **💼 Suporte Técnico N1 (Rodosoft Tecnologia, São Leopoldo, RS)**  
 **💻 Desenvolvedor Full Stack**  
 
