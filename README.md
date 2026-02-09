@@ -1,8 +1,8 @@
 # Olá, eu sou Alexandre Ávila! 👋
 
 **🎓 Estudante de Ciência da Computação (4º semestre)**  
-**💼 Suporte Técnico N1 (Rodosoft Tecnologia, São Leopoldo, RS)**  
-**💻 Desenvolvedor Full Stack**  
+**💼 Suporte Técnico N2 (Rodosoft Tecnologia, São Leopoldo, RS)**  
+**💻 Desenvolvedor Back-end (.NET / C#) & Automação com Python** 
 
 **📍 Esteio, RS, Brasil**
 
@@ -10,9 +10,13 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente, trabalho como Suporte Técnico N2, atendendo clientes para diagnóstico, análise e resolução de incidentes técnicos relacionados aos softwares da empresa. Também administro e dou suporte a bancos de dados (MySQL / SQL Server), criando e executando consultas otimizadas, analisando dados, corrigindo registros incorretos e garantindo a integridade e performance das informações.
+Atualmente trabalho como Suporte Técnico Nível 2, atuando no diagnóstico e resolução de incidentes técnicos, além de colaborar diretamente com a equipe de desenvolvimento para soluções complexas.
 
-Tenho buscado aprimorar meus conhecimentos em desenvolvimento Full Stack, criando soluções completas que integram front-end, back-end e banco de dados — sempre priorizando a experiência do usuário, a organização do código e o desempenho.
+Desenvolvi scripts em Python para automação de análises e rotinas internas, além de criar um painel de monitoramento (C# / Blazor) para acompanhamento em tempo real de sistemas, APIs e métodos de pagamento, com foco em detecção de falhas e prevenção de problemas.
+
+Administro e dou suporte a bancos de dados (MySQL / SQL Server), criando consultas otimizadas, analisando e manipulando dados para garantir integridade e performance das informações.
+
+Busco contínuo aprimoramento técnico, com foco em desenvolvimento Back-end, qualidade de código e eficiência das soluções.
 
 ---
 
@@ -21,6 +25,7 @@ Tenho buscado aprimorar meus conhecimentos em desenvolvimento Full Stack, criand
 **Linguagens de Programação:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
