@@ -1,9 +1,9 @@
 # Olá, eu sou Alexandre Ávila! 
 
-**🎓 Ciência da Computação**  
-**💼 Analista de Sistemas**  
-**💻 Back-end .NET | C# | ASP.NET Core | Blazor | APIs REST** 
-**🗄️ SQL Server | MySQL | Python** 
+**Ciência da Computação**  
+**Analista de Sistemas**  
+**Back-end .NET | C# | ASP.NET Core | Blazor | APIs REST**
+** SQL Server | MySQL | Python** 
 
 **📍 Rio Grande do Sul, Brasil**
 
