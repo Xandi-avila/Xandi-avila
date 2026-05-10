@@ -1,4 +1,4 @@
-# Olá, eu sou Alexandre Ávila! 👋
+# Olá, eu sou Alexandre Ávila! 
 
 **🎓 Ciência da Computação**  
 **💼 Analista de Sistemas**  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Analista de Sistemas com atuação em QA técnico e sustentação de sistemas críticos de e-commerce e aplicações web.
 
@@ -23,7 +23,7 @@ Foco profissional em Back-end .NET, APIs REST e arquitetura de software.
 
 ---
 
-## 🧠 Meu Perfil Técnico
+##  Meu Perfil Técnico
 
 **Frameworks e Tecnologias:**
 
