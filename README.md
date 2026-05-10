@@ -13,7 +13,7 @@
 
 Analista de Sistemas com atuação em QA técnico e sustentação de sistemas críticos de e-commerce e aplicações web.
 
-Experiência em investigação de incidentes, diagnósticos ponta a ponta entre Frontend, APIs, Backend e banco de dados, garantindo estabilidade operacional e integridade de integrações e métodos de pagamento.
+Experiência em investigação de incidentes e diagnósticos ponta a ponta entre Frontend, APIs, Backend e banco de dados, com foco em estabilidade operacional e integridade de integrações e métodos de pagamento.
 
 Desenvolvimento de dashboards em tempo real com Blazor/C# para monitoramento de sistemas, APIs e serviços críticos, além de automações em Python para otimização de análises técnicas e rotinas operacionais.
 
@@ -25,17 +25,13 @@ Foco profissional em Back-end .NET, arquitetura de software, APIs REST e desenvo
 
 ## 🧠 Meu Perfil Técnico
 
-**Linguagens de Programação:**
+**Frameworks e Tecnologias:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-**Desenvolvimento Web:**
-
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 
 **Banco de Dados:**
 
@@ -52,13 +48,6 @@ Foco profissional em Back-end .NET, arquitetura de software, APIs REST e desenvo
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
 
 ---
 ## 📚 Projetos em Destaque
@@ -87,9 +76,7 @@ Sistema completo de gerenciamento para uma academia de lutas, desenvolvido com f
 *(Explore meus repositórios para ver mais projetos!)*
 ---
 
-## 📫 Contato
-
-Estou sempre aberto a novas oportunidades de aprendizado e desafios. Sinta-se à vontade para entrar em contato!
+## 📫 Entre em contato:
 
 - **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
 - **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
