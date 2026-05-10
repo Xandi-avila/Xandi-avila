@@ -1,22 +1,25 @@
 # Olá, eu sou Alexandre Ávila! 👋
 
-**🎓 Estudante de Ciência da Computação (4º semestre)**  
-**💼 Suporte Técnico N2 (Rodosoft Tecnologia, São Leopoldo, RS)**  
-**💻 Desenvolvedor Back-end (.NET / C#) & Automação com Python** 
+**🎓 Ciência da Computação**  
+**💼 Analista de Sistemas**  
+**💻 Back-end .NET | C# | ASP.NET Core | Blazor | APIs REST** 
+**🗄️ SQL Server | MySQL | Python** 
 
-**📍 Esteio, RS, Brasil**
+**📍 Rio Grande do Sul, Brasil**
 
 ---
 
 ## 🚀 Sobre Mim
 
-Atualmente trabalho como Suporte Técnico Nível 2, atuando no diagnóstico e resolução de incidentes técnicos, além de colaborar diretamente com a equipe de desenvolvimento para soluções complexas.
+Analista de Sistemas com atuação em QA técnico e sustentação de sistemas críticos de e-commerce e aplicações web.
 
-Desenvolvi scripts em Python para automação de análises e rotinas internas, além de criar um painel de monitoramento (C# / Blazor) para acompanhamento em tempo real de sistemas, APIs e métodos de pagamento, com foco em detecção de falhas e prevenção de problemas.
+Experiência em investigação de incidentes, diagnósticos ponta a ponta entre Frontend, APIs, Backend e banco de dados, garantindo estabilidade operacional e integridade de integrações e métodos de pagamento.
 
-Administro e dou suporte a bancos de dados (MySQL / SQL Server), criando consultas otimizadas, analisando e manipulando dados para garantir integridade e performance das informações.
+Desenvolvimento de dashboards em tempo real com Blazor/C# para monitoramento de sistemas, APIs e serviços críticos, além de automações em Python para otimização de análises técnicas e rotinas operacionais.
 
-Busco contínuo aprimoramento técnico, com foco em desenvolvimento Back-end, qualidade de código e eficiência das soluções.
+Atuação com SQL Server e MySQL, incluindo consultas otimizadas, análise de dados e suporte à integridade e performance de operações críticas.
+
+Foco profissional em Back-end .NET, arquitetura de software, APIs REST e desenvolvimento de soluções escaláveis.
 
 ---
 
@@ -27,15 +30,11 @@ Busco contínuo aprimoramento técnico, com foco em desenvolvimento Back-end, qu
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 
 **Desenvolvimento Web:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 
 **Banco de Dados:**
@@ -55,14 +54,11 @@ Busco contínuo aprimoramento técnico, com foco em desenvolvimento Back-end, qu
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-**Metodologias Ágeis:**
+## 📊 GitHub Stats
 
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
 
-**UI/UX Design:**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=draw.io&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
 
 ---
 ## 📚 Projetos em Destaque
@@ -98,5 +94,3 @@ Estou sempre aberto a novas oportunidades de aprendizado e desafios. Sinta-se à
 - **LinkedIn:** [linkedin.com/in/alexandre-de-avila](https://www.linkedin.com/in/alexandre-de-avila/)
 - **E-mail:** [xandiipereiraa@outlook.com](mailto:xandiipereiraa@outlook.com)
 - **Currículo:** [Download meu CV (PDF)](https://raw.githubusercontent.com/Xandi-avila/Xandi-avila/bc9dc27968bfa32ba644debc3436a89d15f52917/Curriculo%20Alexandre%20avila%20pereira.pdf)
-- **WhatsApp:** [+55 51 99772-1371](https://wa.me/5551997721371)
-
