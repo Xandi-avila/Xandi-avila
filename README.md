@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Analista de Sistemas com atuação em QA técnico e sustentação de sistemas críticos de e-commerce e aplicações web.
+Atuo como Analista de Sistemas em aplicações web e fluxos críticos de e-commerce, com foco em QA técnico, integrações e sustentação de sistemas.
 
 Experiência em investigação de incidentes e diagnósticos ponta a ponta entre Frontend, APIs, Backend e banco de dados, com foco em estabilidade operacional e integridade de integrações e métodos de pagamento.
 
