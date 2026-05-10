@@ -49,12 +49,6 @@ Foco profissional em Back-end .NET, APIs REST e arquitetura de software.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
-
 ---
 ## 📚 Projetos em Destaque
 
