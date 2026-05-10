@@ -12,11 +12,11 @@
 
 Atuo como Analista de Sistemas em aplicações web e fluxos críticos de e-commerce, com foco em integrações, investigação de incidentes e sustentação de sistemas.
 
-Experiência em investigação de incidentes e diagnósticos ponta a ponta entre Frontend, APIs, Backend e banco de dados, com foco em estabilidade operacional e integridade de integrações e métodos de pagamento.
+Experiência em investigação de incidentes e diagnósticos ponta a ponta entre Frontend, APIs, Backend e banco de dados, com foco em estabilidade operacional de integrações e métodos de pagamento.
 
 Desenvolvimento de dashboards em tempo real com Blazor/C# para monitoramento de sistemas, APIs e serviços críticos, além de automações em Python para otimização de análises técnicas e rotinas operacionais.
 
-Experiência com SQL Server e MySQL, incluindo consultas otimizadas, análise de dados e suporte à integridade e performance de operações críticas.
+Experiência com SQL Server e MySQL, incluindo consultas otimizadas, análise de dados e suporte à performance de operações críticas.
 
 Foco profissional em Back-end .NET, APIs REST e arquitetura de software.
 
