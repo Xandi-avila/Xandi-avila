@@ -17,9 +17,9 @@ Experiência em investigação de incidentes e diagnósticos ponta a ponta entre
 
 Desenvolvimento de dashboards em tempo real com Blazor/C# para monitoramento de sistemas, APIs e serviços críticos, além de automações em Python para otimização de análises técnicas e rotinas operacionais.
 
-Atuação com SQL Server e MySQL, incluindo consultas otimizadas, análise de dados e suporte à integridade e performance de operações críticas.
+Experiência com SQL Server e MySQL, incluindo consultas otimizadas, análise de dados e suporte à integridade e performance de operações críticas.
 
-Foco profissional em Back-end .NET, arquitetura de software, APIs REST e desenvolvimento de soluções escaláveis.
+Foco profissional em Back-end .NET, APIs REST e arquitetura de software.
 
 ---
 
@@ -48,6 +48,12 @@ Foco profissional em Back-end .NET, arquitetura de software, APIs REST e desenvo
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandi-avila&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandi-avila&layout=compact&theme=dark)
 
 ---
 ## 📚 Projetos em Destaque
